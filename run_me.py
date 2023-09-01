@@ -1,7 +1,7 @@
 from tkinter import *
 import platform
 from os import environ
-from tkinter import messagebox
+#from tkinter import messagebox
 
 def do_crazy_stuff():
     SYSTEM = platform.system().strip().upper()
